@@ -5,6 +5,18 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/DocFXSample.Person.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocFXSample.Person.html",
+          "hash": "FTUQm2N3CGpNqfgolFcuJTvNyUWFWx6EsV1E8ele100="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/DocFXSample.Vehicle.yml",
       "output": {
         ".html": {
@@ -21,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DocFXSample.html",
-          "hash": "pZkkvX4GniihQxbjxD4JypwgSb0AM4Kj0Db/BtJHwUU="
+          "hash": "ATJpOgNRaaaVHhwfbn29fP0z+xcQbp/RPWhebZkn7YQ="
         }
       },
       "is_incremental": false,
@@ -45,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "mIOM1Vp7otS1wXEIKTwhHTxq6IS8szbPAy3TUOUr4bA="
+          "hash": "0GfPeLyaLeddpRW1HtVne4L86PzfWhR4q1J4pMpdyUk="
         }
       },
       "is_incremental": false,
@@ -120,7 +132,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 3,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -7,6 +7,51 @@ references:
   commentId: N:DocFXSample
   fullName: DocFXSample
   nameWithType: DocFXSample
+- uid: DocFXSample.Person
+  name: Person
+  href: api/DocFXSample.Person.html
+  commentId: T:DocFXSample.Person
+  fullName: DocFXSample.Person
+  nameWithType: Person
+- uid: DocFXSample.Person.Age
+  name: Age
+  href: api/DocFXSample.Person.html#DocFXSample_Person_Age
+  commentId: P:DocFXSample.Person.Age
+  fullName: DocFXSample.Person.Age
+  nameWithType: Person.Age
+- uid: DocFXSample.Person.Age*
+  name: Age
+  href: api/DocFXSample.Person.html#DocFXSample_Person_Age_
+  commentId: Overload:DocFXSample.Person.Age
+  isSpec: "True"
+  fullName: DocFXSample.Person.Age
+  nameWithType: Person.Age
+- uid: DocFXSample.Person.Car
+  name: Car
+  href: api/DocFXSample.Person.html#DocFXSample_Person_Car
+  commentId: P:DocFXSample.Person.Car
+  fullName: DocFXSample.Person.Car
+  nameWithType: Person.Car
+- uid: DocFXSample.Person.Car*
+  name: Car
+  href: api/DocFXSample.Person.html#DocFXSample_Person_Car_
+  commentId: Overload:DocFXSample.Person.Car
+  isSpec: "True"
+  fullName: DocFXSample.Person.Car
+  nameWithType: Person.Car
+- uid: DocFXSample.Person.Name
+  name: Name
+  href: api/DocFXSample.Person.html#DocFXSample_Person_Name
+  commentId: P:DocFXSample.Person.Name
+  fullName: DocFXSample.Person.Name
+  nameWithType: Person.Name
+- uid: DocFXSample.Person.Name*
+  name: Name
+  href: api/DocFXSample.Person.html#DocFXSample_Person_Name_
+  commentId: Overload:DocFXSample.Person.Name
+  isSpec: "True"
+  fullName: DocFXSample.Person.Name
+  nameWithType: Person.Name
 - uid: DocFXSample.Vehicle
   name: Vehicle
   href: api/DocFXSample.Vehicle.html
